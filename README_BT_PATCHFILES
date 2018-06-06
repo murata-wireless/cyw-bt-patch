@@ -5,7 +5,6 @@ the BT core for a chip ID (over UART connection) which it uses for loading the c
 
 NOTE: this Bluetooth patchfiles (*.hcd) are intended as reference only. The user needs to customize the Bluetooth patchfile to meet their HW/SW system requirements. 
 
-
 Cypress Chipset		Default		Options		WLAN Interface    Devices Supported	  Notes
 =============		=======		=======		==============    =====================   ===================
 CYW4356			1CX		N/A		PCIe              802.11a/b/g/n/ac MIMO        
