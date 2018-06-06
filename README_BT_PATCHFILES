@@ -2,9 +2,9 @@ THE FOLLOWING NOTES APPLY ONCE THE YOCTO LINUX IMAGE IS BUILT AND ROOTFS IS POPU
 ======================================================================================
 Use "murata-master" sub-folder for module-specific Bluetooth patchfiles. When executing "hciattach" in Linux, the BlueZ stack queries 
 the BT core for a chip ID (over UART connection) which it uses for loading the corresponding Bluetoothpatchfile from "/etc/firmware" folder. 
+The hcd files are renamed from CYW43XX to BCM43XX.
 
 NOTE: this Bluetooth patchfiles (*.hcd) are intended as reference only. The user needs to customize the Bluetooth patchfile to meet their HW/SW system requirements. 
-
 
 Cypress Chipset		Default		Options		WLAN Interface    Devices Supported	  Notes
 =============		=======		=======		==============    =====================   ===================
