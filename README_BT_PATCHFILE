@@ -7,7 +7,7 @@ The hcd files are renamed from CYW43XX to BCM43XX.
 NOTE: this Bluetooth patchfiles (*.hcd) are intended as reference only. The user needs to customize the Bluetooth patchfile to meet their HW/SW system requirements. 
 
 Cypress Chipset		Default		Options		WLAN Interface    Devices Supported	  Notes
-=============		=======		=======		==============    =====================   ===================
+===============		=======		=======		==============    =====================   =========================================
 CYW4356			1CX		N/A		PCIe              802.11a/b/g/n/ac MIMO        
 CYW4354			1BB		N/A             SDIO              802.11a/b/g/n/ac MIMO
 CYW43455		1MW		1LC, 1HK        SDIO              802.11a/b/g/n/ac
