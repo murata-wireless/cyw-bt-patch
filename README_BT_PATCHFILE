@@ -4,6 +4,10 @@ Use "murata-master" sub-folder for module-specific Bluetooth patchfiles. When ex
 the BT core for a chip ID (over UART connection) which it uses for loading the corresponding Bluetoothpatchfile from "/etc/firmware" folder. 
 The hcd files are renamed from CYW43XX to BCM43XX.
 
+Files in sub-folder "murata-master" will have symbol "_" infront of the file name.
+Ex: BCM43430A1.1DX.hcd will be named as _BCM43430A1.1DX.hcd
+User will have to remove "_" and copy it to /etc/firmware. 
+
 NOTE: this Bluetooth patchfiles (*.hcd) are intended as reference only. The user needs to customize the Bluetooth patchfile to meet their HW/SW system requirements. 
 
 Cypress Chipset		Default		Options		WLAN Interface    Devices Supported	  Notes
