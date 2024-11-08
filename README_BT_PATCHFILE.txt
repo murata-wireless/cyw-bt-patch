@@ -16,7 +16,7 @@ CYW54591             1XA                N/A	            PCIe          802.11a/b/
 CYW4356              1CX                N/A	            PCIe          802.11a/b/g/n/ac MIMO
 CYW4354              1BB                N/A                 SDIO          802.11a/b/g/n/ac MIMO		Strategic customer engagement only.
 CYW43455             1MW                1LC, 1HK            SDIO          802.11a/b/g/n/ac		1MW - Mass Market; 1LC, 1HK - Strategic customer engagement only.
-CYW4373              2AE                N/A		    SDIO          802.11a/b/g/n/ac
+CYW4373              2AE                N/A		    SDIO, USB     802.11a/b/g/n/ac
 CYW4373              2BC                N/A		    SDIO          802.11a/b/g/n/ac
 CYW43012             1LV                N/A                 SDIO          802.11a/b/g/n/ac-friendly	"802.11ac friendly"; MAX 20 MHz Bandwidth.
 CYW43022             2GF                N/A                 SDIO          802.11a/b/g/n/ac-friendly	"802.11ac friendly"; MAX 20 MHz Bandwidth.
@@ -48,6 +48,8 @@ BCM4373A0_001.001.025.0103.0156.JRL.2AE.hcd                                     
 BCM4373A0_001.001.025.0103.0155.FCC.CE.2BC.hcd                                   | 1e287a3ab7f83e59352cb321315ea80f    |
 BCM4373A0_001.001.025.0103.0156.JRL.2BC.hcd                                      | bbdb081f5e6d75e5ca87ef3b0ccb0bf2    |
 BCM4373A0.2AE.hcd				                                 | 4788119eb154576283bb167208a1ede9    |
+CYW4373A0_001.001.025.0119.0000.2AE.USB_FCC.hcd                                  | f7b18c36e05eec8173aedd251738f8dd    |
+CYW4373A0_001.001.025.0119.0000.2AE.USB_JRL.hcd                                  | aeb662276778b5e57c45e0bcc6fc1d5f    |
 CYW4343A2_001.003.016.0031.0000.1YN.hcd	                                         | 4c49ef93f4ded4f7cfe10645cabb483c    |
 CYW43341B0.1BW.hcd	                                                         | 54d140ac2503c5d34631cb30c4c3657e    |
 CYW4335C0.ZP.hcd                                                                 | c29b894df41e1ed41f1e77d9e44f1aa0    |
