@@ -27,6 +27,7 @@ CYW4339	             ZP                 1CK                 SDIO          802.11
 CYW43340/CYW43341    1BW                N/A                 SDIO          802.11b/g/n			 Legacy module; No longer supported.
 CYW43362             SN8000             N/A	            SDIO          802.11b/g/n			 Legacy module; No longer supported.
 CYW55573             2EA                N/A                 PCIe, SDIO    802.11a/b/g/n/ac
+CYW55513             2FY                N/A                 SDIO          802.11a/b/g/n/ac-friendly	"802.11ac friendly"; MAX 20 MHz Bandwidth.
 
 ========================================================================================================================
 File Name                                                                        |    md5sum          		       |
@@ -58,5 +59,5 @@ CYW55560A1_001.002.087.0269.0100.FCC.2EA.sAnt.hcd                               
 CYW55560A1_001.002.087.0269.0103.FCC.2EA.dAnt.hcd                                | e068e64325b45596d410cae2b02fe410    |
 CYW55560A1_001.002.087.0269.0106.EU.JP.2EA.sAnt.hcd                              | 5e1375b80fda2cb551945341493cc716    |
 CYW55560A1_001.002.087.0269.0107.EU.JP.2EA.dAnt.hcd                              | 9cac705f13c0c023fb24862164135190    |
-CYW55500A1_001.002.032.0040.0033_FCC.hcd                                         | e43ce2141f4ddadc0a4a6233fb583900    |
+CYW55500A1_001.002.032.0040.0033.2FY.hcd                                         | e43ce2141f4ddadc0a4a6233fb583900    |
 ========================================================================================================================
