@@ -46,7 +46,7 @@ BCM4373A0_001.001.025.0103.0156.JRL.2BC.hcd                                     
 BCM4373A0.2AE.hcd				                                 | 4788119eb154576283bb167208a1ede9    |
 CYW4373A0_001.001.025.0119.0000.2AE.USB_FCC.hcd                                  | f7b18c36e05eec8173aedd251738f8dd    |
 CYW4373A0_001.001.025.0119.0000.2AE.USB_JRL.hcd                                  | aeb662276778b5e57c45e0bcc6fc1d5f    |
-CYW4343A2_001.003.016.0031.0000.1YN.hcd	                                         | 4c49ef93f4ded4f7cfe10645cabb483c    |
+CYW4343A2_001.003.016.0071.0017.1YN.hcd	                                         | 0c050437ed2ed6f9c451b7732e7729ef    |
 CYW43341B0.1BW.hcd	                                                         | 54d140ac2503c5d34631cb30c4c3657e    |
 CYW55560A1_001.002.087.0269.0100.FCC.2EA.sAnt.hcd                                | 2ef2b4ea2c77d8d29ee27fd55129b384    |
 CYW55560A1_001.002.087.0269.0103.FCC.2EA.dAnt.hcd                                | e068e64325b45596d410cae2b02fe410    |
