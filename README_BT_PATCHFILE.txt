@@ -23,7 +23,7 @@ CYW43439             1YN                N/A		    SDIO          802.11b/g/n
 CYW43364             1FX                N/A                 SDIO          802.11b/g/n			Same WLAN core as 1DX.
 CYW43340/CYW43341    1BW                N/A                 SDIO          802.11b/g/n			Legacy module; No longer supported.
 CYW55573             2EA                N/A                 PCIe, SDIO    802.11a/b/g/n/ac/ax
-CYW55513             2FY                N/A                 SDIO          802.11a/b/g/n/ac/ax
+CYW55513             2FY/2GY                N/A                 SDIO          802.11a/b/g/n/ac/ax
 
 ========================================================================================================================
 File Name                                                                        |    md5sum          		       |
@@ -53,4 +53,6 @@ CYW55560A1_001.002.087.0269.0103.FCC.2EA.dAnt.hcd                               
 CYW55560A1_001.002.087.0269.0106.EU.JP.2EA.sAnt.hcd                              | 5e1375b80fda2cb551945341493cc716    |
 CYW55560A1_001.002.087.0269.0107.EU.JP.2EA.dAnt.hcd                              | 9cac705f13c0c023fb24862164135190    |
 CYW55500A1_001.002.032.0040.0033.2FY.hcd                                         | e43ce2141f4ddadc0a4a6233fb583900    |
+CYW55500A1_001.002.032.0040.0032.CE.JP.2FY.2GY.hcd                               | 584e5a881cc2e48d30bee83502d821c4    |
+CYW55500A1_001.002.032.0040.0033.FCC.2FY.2GY.hcd                                 | e43ce2141f4ddadc0a4a6233fb583900    |
 ========================================================================================================================
